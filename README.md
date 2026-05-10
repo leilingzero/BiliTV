@@ -1,12 +1,14 @@
 ## 原生 Android TV 版本（繁体中文支持）
 
-如果你的设备配置较低，或者希望使用更轻量的原生 Android TV 版本，可以尝试：
+后续会专注于优化原生版
 
 [BiliTVNative](https://github.com/Hyper-Beast/BiliTVNative)
 
-原生版相比 Flutter 版更偏向低配置电视设备优化，安装包更小、内存占用更低，并加入了香港繁体和台湾繁体显示支持。
 
-原生版目前只做基础维护。除非严重 bug，否则不会继续主动修复；新功能也没有计划加入。需要扩展功能可以 fork 后自行修改，或交给 AI 基于项目文档继续开发。
+原生版截图
+<img width="2048" height="1104" alt="image" src="https://github.com/user-attachments/assets/9d57c6c7-d1ed-4960-b86b-de475949f88b" />
+
+
 
 
 
